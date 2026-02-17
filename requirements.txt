@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+playwright>=1.58.0
+playwright-stealth
+pyperclip
+python-multipart
